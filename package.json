@@ -60,6 +60,10 @@
     "url": "https://github.com/angular/protractor/issues"
   },
   "description": "Webdriver E2E test wrapper for Angular.",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-decompress": "2.0.1"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-decompress": "2.0.1"
